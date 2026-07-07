@@ -1,4 +1,4 @@
-# NNNN — Title (the decision, stated actively)
+# NNN — Title (the decision, stated actively)
 
 - Status: proposed | accepted | superseded by [NNNN](NNNN-slug.md)
 - Date: YYYY-MM-DD
