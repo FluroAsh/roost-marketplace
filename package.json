@@ -6,7 +6,7 @@
     "dev": "pnpm --filter '@roost/api' dev & pnpm --filter '@roost/web' dev"
   },
   "author": "Ashley Thompson",
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@11.10.0",
   "engines": {
     "node": ">=22.0.0"
   },
